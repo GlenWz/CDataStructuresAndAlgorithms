@@ -15,6 +15,7 @@ stk *build()
 	{
 		head->data[i]=d;
 		head->top=i;
+		 
 	}
 	return head;
 }
